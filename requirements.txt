@@ -1,0 +1,10 @@
+Problem Definition
+Description of Algorithms (Pseudocode and Explanation)
+Implementation details
+	- what kind of graphs
+	- experimental data nodes 100 -> 10,000
+	- how we tested,results and where input came from
+	- time and space complexity
+
+should be less than 10 pages. Describe everything but do not go overboard on describing what we already know.
+
